@@ -93,12 +93,14 @@ git commit -m "modificando lib/main.dart en rama develop"
 ## Fusionando Ramas (Merge)
 ### Volver a la Rama Principal
 
-```git checkout main
+```
+git checkout main
 ```
 
 ## Fusionar la Rama de develop en la principal
 
-```git merge develop
+```
+git merge develop
 ```
 
 Esto integrará los cambios de la rama desarrollo en la rama main.
