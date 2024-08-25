@@ -48,6 +48,11 @@ cd aprender_git
 ```
 git init
 ```
+ó
+
+```
+git init --initial-branch=main
+```
 
 ### Realizar tu Primer Commit
 
