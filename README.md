@@ -9,17 +9,17 @@ Almacenar tu código en un "repositorio" en GitHub te permite:
 - Dejar que otros usuarios **revisen** el código y realicen sugerencias para mejorarlo.
 - **Colaborar** en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores antes de que esté listo para integrarlos.
 
-Para empezar a trabajar con [GitHub](https://github.com/), deberás crear una cuenta personal gratuita en GitHub.com y comprobar la dirección de correo electrónico.
+Para empezar a trabajar con GitHub, deberás crear una cuenta personal gratuita en [GitHub.com](https://github.com/) y comprobar la dirección de correo electrónico.
 
-Cada persona que utilice GitHub.com deberá iniciar sesión en una cuenta personal. Tu cuenta personal es tu identidad en GitHub.com y tiene un nombre de usuario y perfil. Por ejemplo, consulte el perfil de @octocat.
+Cada persona que utilice GitHub.com deberá iniciar sesión en una cuenta personal. Tu cuenta personal es tu identidad en GitHub.com y tiene un nombre de usuario y perfil. **Por ejemplo**, consulte el perfil de **@narmeshit**.
 
 ## Git
 
-Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas y tú estáis haciendo cambios en los mismos archivos al mismo tiempo.
+Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas y tú hacen cambios en los mismos archivos al mismo tiempo.
 
 Normalmente, para hacerlo en un flujo de trabajo basado en Git, harías lo siguiente:
 
-- **Crear una rama** a partir de la copia principal de archivos en los que tú (y tus colaboradores) estáis trabajando.
+- **Crear una rama** a partir de la copia principal de archivos en los que tú (y tus colaboradores) estan trabajando.
 - **Realizar modificaciones** en los archivos de forma independiente y segura en tu propia rama personal.
 - Dejar que Git **fusione mediante combinación** y de forma inteligente los cambios específicos en la copia principal de archivos, de modo que los cambios no afecten a las actualizaciones de otras personas.
 - Dejar que Git **realice un seguimiento** de tus cambios y los de otras personas, por lo que todos siguen trabajando en la versión más actualizada del proyecto.
@@ -27,7 +27,7 @@ Normalmente, para hacerlo en un flujo de trabajo basado en Git, harías lo sigui
 ### Conceptos Clave
 
 - **Repositorio (Repository):** Es el lugar donde Git guarda todo el historial de cambios de tu proyecto.
-- **Commit:** Es un "snapshot" del estado actual de tu proyecto. Representa un punto en el tiempo en el que has hecho cambios específicos.
+- **Commit:** Representa un punto en el tiempo en el que has hecho cambios específicos.
 - **Rama (Branch):** Las ramas en Git permiten trabajar en diferentes versiones del código de manera simultánea.
 
 ### Escritura de Commits
