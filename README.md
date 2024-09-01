@@ -180,7 +180,7 @@ git reset --hard hash_commit
 git clone url_repositorio
 ```
 
-## Felicitación
+## Felicitaciones
 
 Ahora ya está listo para usar git en sus proyectos, ahora necesitamos establecer un flujo de trabajo cuando necesitamos trabajar en equipo o un proyecto que va escalar.
 
@@ -198,7 +198,7 @@ Considera usar Git Flow u otro flujo de trabajo como GitHub Flow. Estos flujos e
 
 #### Inicio del Proyecto
 
-- Crea las ramas principales main y develop.
+- Crea las ramas principales `main` y `develop`.
 - Inicializa el repositorio y sube la configuración inicial.
 
 ```bash
