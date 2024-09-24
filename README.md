@@ -180,6 +180,18 @@ git reset --hard hash_commit
 git clone url_repositorio
 ```
 
+#### Trae todas las ramas del repositorio remoto
+
+```bash
+git fetch --all
+```
+
+#### Lista todas las ramas (locales y remotas)
+
+```bash
+git branch -a
+```
+
 ## Felicitaciones
 
 Ahora ya está listo para usar git en sus proyectos, ahora necesitamos establecer un flujo de trabajo cuando necesitamos trabajar en equipo o un proyecto que va escalar.
