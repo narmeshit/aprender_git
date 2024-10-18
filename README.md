@@ -192,6 +192,18 @@ git fetch --all
 git branch -a
 ```
 
+#### Deja de rastrear los archivos ignorados
+
+```bash
+git rm -r --cached .
+```
+
+#### Sube los cambios al repositorio
+
+```bash
+git push origin main
+```
+
 ## Felicitaciones
 
 Ahora ya está listo para usar git en sus proyectos, ahora necesitamos establecer un flujo de trabajo cuando necesitamos trabajar en equipo o un proyecto que va escalar.
